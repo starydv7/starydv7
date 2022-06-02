@@ -16,9 +16,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/pawanstarydv7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/starydv7/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pawan-Yadav-6587b1230/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/aman.jaiswal0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="aman.jaiswal0612" height="30" width="40" /></a>
+
 <a href="https://www.instagram.com/starydv7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan_yadav" height="30" width="40" /></a>
-<a href="https://medium.com/@aman.jaiswal0612" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aman.jaiswal0612" height="30" width="40" /></a>
+
 </p>
 <!-- 
 <h3 align="left">Languages and Tools:</h3>
