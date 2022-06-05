@@ -1,5 +1,10 @@
 <h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
-<h3 align="center">A passionate Full Stack Web developer</h3>
+<!-- <h3 align="center">A passionate Full Stack Web developer</h3> -->
+
+<h3>A Passionate Full-Stack web developer from india</h3>
+<p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care ofarchitecture and code quality.<br>
+I am also an open-source enthusiast and maintainer.</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=starydv7&label=Profile%20views&color=0e75b6&style=flat" alt="pawanyadav" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starydv7" alt="py" /></a> </p>
 
