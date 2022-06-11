@@ -19,7 +19,7 @@ I am also an open-source enthusiast and maintainer.</p>
 - 💬 Ask me about **HTML CSS JS React Redux TypeScript etc.**
 
 - 📫 How to reach me **pawanstar72926ydv@gmail.com**
-- 📫 How to know about me **https://drive.google.com/file/d/  14XjVQWtxYjmc042ei4x6SALy0eOIm_X3/view?usp=sharing**
+- 📫 How to know about me https://drive.google.com/file/d/14XjVQWtxYjmc042ei4x6SALy0eOIm_X3/view?usp=sharing
 
 
 
