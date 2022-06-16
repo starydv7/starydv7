@@ -11,20 +11,17 @@ I am also an open-source enthusiast and maintainer.</p>
 
 <!-- <p align="left"> <a href="https://twitter.com/realpankajk" target="blank"><img src="https://img.shields.io/twitter/follow/realpankajk?logo=twitter&style=for-the-badge" alt="realpankajk" /></a> </p> -->
 
-- 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **React.Js**
+## About me
+- 😄<b>Bachelor of Information Technology (B.Tech)</b> from Haldia Insitute of     Technology (Haldia)West Bengal
+- 🌱 I’m currently learning about <i>Full Stack Web Development</i> at Masai School.
+- 🌱 I’m currently learning <b>MERN stack languages</b>
+- 🤔 All of my projects and details are available athttps://pawan-yadav-portfolio3.netlify.app/
+- 💬 Ask me about <b>React,Typescript, JavaScript, MongoDb, Node.js,Express.js, HTML, CSS.</b>
+- 📫 How to reach me pawanstar72926ydv@gmail.com
+- 📄 Know about my experiences https://drive.google.com/file/d/14XjVQWtxYjmc042ei4x6SALy0eOIm_X3/view?usp=sharing
+- 💬 Let's [chat](pawanstar72926ydv@gmail.com)!
 
-<!-- - 👨‍💻 All of my projects are available at [https://tranquil-cajeta-e99290.netlify.app/](https://tranquil-cajeta-e99290.netlify.app/) -->
-
-- 💬 Ask me about **HTML CSS JS React Redux TypeScript etc.**
-
-- 📫 How to reach me **pawanstar72926ydv@gmail.com**
-<!-- - 📫 How to know about me https://drive.google.com/file/d/14XjVQWtxYjmc042ei4x6SALy0eOIm_X3/view?usp=sharing -->
-
-
-
-<!-- - 📄 Know about my experiences [https://drive.google.com/file/d/14koSvRPNt5hblFXvm1h34168rlBNE5Ug/view?usp=sharing](https://drive.google.com/file/d/14koSvRPNt5hblFXvm1h34168rlBNE5Ug/view?usp=sharing) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
