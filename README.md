@@ -20,7 +20,7 @@ I am also an open-source enthusiast and maintainer.</p>
 - 💬 Ask me about <b> React, Redux, JavaScript, HTML, CSS.</b>
 - 📫 How to reach me pawanstar72926ydv@gmail.com
 - 📄 Know about my experiences https://drive.google.com/file/d/14XjVQWtxYjmc042ei4x6SALy0eOIm_X3/view?usp=sharing
-- 💬 Let's [chat](pawanstar72926ydv@gmail.com)!
+
 
 
 <h3 align="left">Connect with me:</h3>
