@@ -15,8 +15,6 @@ I am also an open-source enthusiast and maintainer.</p>
 - 😄<b>Bachelor of Information Technology (B.Tech)</b> from Haldia Insitute of     Technology (Haldia)West Bengal
 - 🌱 I’m currently learning Data Structures, Algorithms and Mern stack.
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 🌱 I’m currently learning about <i>Full Stack Web Development</i> at Masai School.
-- 🌱 I’m currently learning <b>MERN stack languages</b>
 - 🤔 All of my projects and details are available at https://pawan-yadav-03.netlify.app/
 - 💬 Ask me about <b> React, Redux, JavaScript, HTML, CSS.</b>
 - 📫 How to reach me pawanstar72926ydv@gmail.com
