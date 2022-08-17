@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer.</p>
 - 🌱 I’m currently learning Data Structures, Algorithms and Mern stack.
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 All of my projects and details are available at https://pawan-yadav-03.netlify.app/
-- 💬 Ask me about <b> React, Redux, JavaScript, TypeScript, HTML, CSS.</b>
+- 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.</b>
 - 📫 How to reach me pawanstar72926ydv@gmail.com
 - 📄 Know about my experiences https://drive.google.com/file/d/12o2MpkTNSax1xY9M3dC1yC-IxN4AjKnM/view?usp=sharing
 
