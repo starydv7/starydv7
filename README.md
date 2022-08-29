@@ -26,7 +26,7 @@ I am also an open-source enthusiast and maintainer.</p>
 <p align="left">
 <a href="https://www.linkedin.com/in/pawanstarydv7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-jaiswal-6587b1230/" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/starydv7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan-yadav" height="30" width="40" /></a>
+<a href="https://www.instagram.com/starydv7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/starydv7/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pawan-yadav" height="30" width="40" /></a>
 
 </p>
 
