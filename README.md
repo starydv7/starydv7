@@ -17,7 +17,7 @@ I am also an open-source enthusiast and maintainer.</p>
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 All of my projects and details are available at https://pawan-yadav-03.netlify.app/
 - 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.</b>
-- 📫 How to reach me pawanstar72926ydv@gmail.com
+- 📫 How to reach me  <a href='pawanstar72926ydv@gmail.com'>Email</a>
 - 📄 Know about my experiences <a href='https://drive.google.com/file/d/1DjsWBFn0TBpc5xFOM4eS8QxKEpJbEvL4/view?usp=sharing'>Resume </a>
  
 
