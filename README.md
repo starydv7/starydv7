@@ -80,22 +80,3 @@ I am also an open-source enthusiast and maintainer.</p>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
-## 📕 Pinned Repositories
-
-<p align="center">
-<a href="https://github.com/starydv7/Boat-clone-masai">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=Boat-Unit-2-Project&hide_border=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/starydv7/HEALTHKART">
-  <image align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=Healthart.Com&hide_border=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/starydv7/Ssense-clone-Individual-project">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=Ssense-clone&hide_border=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/starydv7/sordid-worm-4067">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=MyGlamm-Clone-1&hide_border=true&theme=tokyonight" />
-</a>
-</p>
