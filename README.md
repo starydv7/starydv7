@@ -25,18 +25,37 @@ I am also an open-source enthusiast and maintainer.</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pawanstarydv7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/pawanstarydv7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan" height="30" width="40" /></a>
 </p>
+## Languages & Tech & Tools
+<br/>
+<p align='center'>
+    <img height="40" src="/iconImages/html.png">&nbsp;&nbsp;
+    <img height="40" src="https://www.linkpicture.com/q/css.png">&nbsp;&nbsp;
+    <img height="40" src="https://www.linkpicture.com/q/javascript_2.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/2x/chakra-ui.png">&nbsp;&nbsp;
+    <img height="40" src="https://material-ui.com/static/logo.png">&nbsp;&nbsp;
+    <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSYXDgtUuX0KXITEzysyAq-gwLKRNalIEdUg&usqp=CAU">&nbsp;&nbsp;
+    <img height="40" src="https://www.linkpicture.com/q/react_3.png">&nbsp;&nbsp;
+    <img height="40" src="https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png">&nbsp;&nbsp;
+    <img height="40" src="/iconImages/typescript.png">&nbsp;&nbsp;
+    <img height="40" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;
+    <img height="40" src="https://www.linkpicture.com/q/node.png">&nbsp;&nbsp;
+    <img height="40" src="https://www.linkpicture.com/q/mongo.png">&nbsp;&nbsp;
+    <img height="40" src="https://www.linkpicture.com/q/express.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/344/java-web-token.png">&nbsp;&nbsp;
+    <img height="40" src="https://www.linkpicture.com/q/cypress.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/452/npm.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/344/git.png">&nbsp;&nbsp;
+    <img height="40" src=" https://img.icons8.com/plasticine/344/visual-studio-code-2019.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/ios-glyphs/344/github.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/color/452/heroku.png">&nbsp;&nbsp;
+    <img height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png">&nbsp;&nbsp;
+  <img height="40" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png">&nbsp;&nbsp;
+ 
+ 
+</p>
+<br/>
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=starydv7&show_icons=true&locale=en&layout=compact" alt="pawan-yadav" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=starydv7&show_icons=true&locale=en" alt="pawan-yadav" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=starydv7&" alt="pawan-yadav" /></p>
-<div align="left">
-<img alt="pawan-yadav" src="https://activity-graph.herokuapp.com/graph?username=starydv7&bg_color=050f2c&color=FFFF&line=5BCDEC&point=FFFFFF&border=true" />
-  </div>
 
