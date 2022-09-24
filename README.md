@@ -57,5 +57,26 @@ I am also an open-source enthusiast and maintainer.</p>
 </p>
 <br/>
 <br/>
+## Connect with me:
+<br/>
+<p align='center'>
+<a href="https://www.linkedin.com/in/pawanstarydv7/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukunda-k" height="30" width="40" /></a>
+</p>
+<br/>
 
 
+## 📊 My Github Stats
+
+  <br/>
+ <p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=starydv7&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img width="48% title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="starydv7's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=starydv7&theme=tokyonight&hide_border=true"/>
+</p>
+
+## 🔝 Most Used Languages
+ <div align="center">
+  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starydv7&layout=compact&hide_border=true&theme=tokyonight" />
+</div> 
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+---
