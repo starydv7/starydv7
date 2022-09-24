@@ -6,8 +6,8 @@
 <p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care ofarchitecture and code quality.<br>
 I am also an open-source enthusiast and maintainer.</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=starydv7&label=Profile%20views&color=0e75b6&style=flat" alt="pawanyadav" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starydv7" alt="py" /></a> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=starydv7&label=Profile%20views&color=0e75b6&style=flat" alt="starydv7" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starydv7&column=8&theme=onedark&no-frame=true&no-bg=true" alt="starydv7" /></a> </p>
 
 
 
