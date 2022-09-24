@@ -98,20 +98,4 @@ I am also an open-source enthusiast and maintainer.</p>
 <a href="https://github.com/starydv7/sordid-worm-4067">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=MyGlamm-Clone-1&hide_border=true&theme=tokyonight" />
 </a>
-
-<a href="https://github.com/starydv7/Farmer-Festlizer">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=Farmer-Festlizer&hide_border=true&theme=tokyonight" />
-</a>
-
-
-<a href="https://github.com/starydv7/Tic-Tac-Toi-Game">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=Tic-Tac-Toi&hide_border=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/starydv7/YouTube">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=YouTube-Application&hide_border=true&theme=tokyonight" />
-</a>
-
-<a href="https://github.com/starydv7/Movie-Serach">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=Movie-Search-App&hide_border=true&theme=tokyonight" />
-</a>
+</p>
