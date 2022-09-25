@@ -73,7 +73,7 @@ I am also an open-source enthusiast and maintainer.</p>
   <img width="48% title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="starydv7's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=starydv7&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 🔝 Most Used Languages
+### 🔝 Most Used Languages
  <div align="center">
   <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starydv7&layout=compact&hide_border=true&theme=tokyonight" />
 </div> 
