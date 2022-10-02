@@ -29,40 +29,36 @@ I am also an open-source enthusiast and maintainer.</p>
 </p>
 ## Languages & Tech & Tools
 <br/>
-<p align='center'>
-    <img height="40" src="/iconImages/html.png">&nbsp;&nbsp;
-    <img height="40" src="https://www.linkpicture.com/q/css.png">&nbsp;&nbsp;
-    <img height="40" src="https://www.linkpicture.com/q/javascript_2.png">&nbsp;&nbsp;
-    <img height="40" src="https://img.icons8.com/color/2x/chakra-ui.png">&nbsp;&nbsp;
-    <img height="40" src="https://material-ui.com/static/logo.png">&nbsp;&nbsp;
-    <img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSSYXDgtUuX0KXITEzysyAq-gwLKRNalIEdUg&usqp=CAU">&nbsp;&nbsp;
-    <img height="40" src="https://www.linkpicture.com/q/react_3.png">&nbsp;&nbsp;
-    <img height="40" src="https://miro.medium.com/max/2800/0*U2DmhXYumRyXH6X1.png">&nbsp;&nbsp;
-    <img height="40" src="/iconImages/typescript.png">&nbsp;&nbsp;
-    <img height="40" src="https://n7.nextpng.com/sticker-png/925/447/sticker-png-express-js-node-js-javascript-mongodb-node-js-text-trademark-logo-web-application.png">&nbsp;&nbsp;
-    <img height="40" src="https://www.linkpicture.com/q/node.png">&nbsp;&nbsp;
-    <img height="40" src="https://www.linkpicture.com/q/mongo.png">&nbsp;&nbsp;
-    <img height="40" src="https://www.linkpicture.com/q/express.png">&nbsp;&nbsp;
-    <img height="40" src="https://img.icons8.com/color/344/java-web-token.png">&nbsp;&nbsp;
-    <img height="40" src="https://www.linkpicture.com/q/cypress.png">&nbsp;&nbsp;
-    <img height="40" src="https://img.icons8.com/color/452/npm.png">&nbsp;&nbsp;
-    <img height="40" src="https://img.icons8.com/color/344/git.png">&nbsp;&nbsp;
-    <img height="40" src=" https://img.icons8.com/plasticine/344/visual-studio-code-2019.png">&nbsp;&nbsp;
-    <img height="40" src="https://img.icons8.com/ios-glyphs/344/github.png">&nbsp;&nbsp;
-    <img height="40" src="https://img.icons8.com/color/452/heroku.png">&nbsp;&nbsp;
-    <img height="40" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-netlify-a-cloud-computing-company-that-offers-hosting-and-serverless-backend-services-for-static-websites-logo-shadow-tal-revivo.png">&nbsp;&nbsp;
-  <img height="40" src="https://logovtor.com/wp-content/uploads/2020/10/vercel-inc-logo-vector.png">&nbsp;&nbsp;
+<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
+  </a>
+</p>
+<!-- <img src="" alt="" /> -->
+<h2 align="center"><i>Tools | Use</i></h2>
+<p align="center">
+  <a >
+    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
+  </a>
+</p>
+
+<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+
+
  
  
 </p>
 <br/>
 <br/>
 ## Connect with me:
-<br/>
-<p align='center'>
-<a href="https://www.linkedin.com/in/pawanstarydv7/" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mukunda-k" height="30" width="40" /></a>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pawanstarydv7/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
+  <a title="pawanstar72926ydv@gmail.com" href="mailto:pawanstar72926ydv@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
+  <a href="https://wa.me/917014361028" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
+<a href="https://leetcode.com/Starydv7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a>
 </p>
-<br/>
 
 
 ## 📊 My Github Stats
