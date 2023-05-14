@@ -15,7 +15,7 @@ I am also an open-source enthusiast and maintainer.</p>
 - 😄<b>Bachelor of Information Technology (B.Tech)</b> from Haldia Insitute of Technology (Haldia)West Bengal
 - 🌱 I’m currently learning Data Structures, Algorithms and Mern stack.
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 🤔 All of my projects and details are available at <a href='https://portfolio-pawan-kappa.vercel.app/'>Portfolio</a>
+- 🤔 All of my projects and details are available at <a href='https://pawan-portfolio-sigma.vercel.app/'>Portfolio</a>
 - 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.</b>
 - 📫 How to reach me  <a href='pawanstar72926ydv@gmail.com'>Email</a>
 - 📄 Know about my experiences <a href='https://drive.google.com/file/d/1qdCkJegHt7b6WiPyHmIm8z_27WHMUnSm/view?usp=share_link'>Resume </a>
