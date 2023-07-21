@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer.</p>
 - 🌱 I’m currently learning Data Structures, Algorithms and Mern stack.
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 All of my projects and details are available at <a href='https://pawan-portfolio-sigma.vercel.app/'>Portfolio</a>
-- 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.</b>
+- 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.Nodejs,MongoDB, ExpressJS,THREEJS,GSAP</b>
 - 📫 How to reach me  <a href='pawanstar72926ydv@gmail.com'>Email</a>
 - 📄 Know about my experiences <a href='https://drive.google.com/file/d/1WGpKaUDJQJ84pMXXa48XuzJc1Db7GLQY/view?usp=sharing'>Resume </a>
  
