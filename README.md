@@ -16,7 +16,7 @@ I am also an open-source enthusiast and maintainer.</p>
 - 🌱 I’m currently learning Data Structures, Algorithms and Mern stack.
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 All of my projects and details are available at <a href='https://pawan-portfolio-sigma.vercel.app/'>Portfolio</a>
-- 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.Nodejs,MongoDB, ExpressJS,THREEJS,GSAP</b>
+- 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.Nodejs,MongoDB, ExpressJS,GSAP,NextJs</b>
 - 📫 How to reach me  <a href='pawanstar72926ydv@gmail.com'>Email</a>
 - 📄 Know about my experiences <a href='https://drive.google.com/file/d/1WGpKaUDJQJ84pMXXa48XuzJc1Db7GLQY/view?usp=sharing'>Resume </a>
  
@@ -32,14 +32,14 @@ I am also an open-source enthusiast and maintainer.</p>
 <h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs,NextJs" />
   </a>
 </p>
 <!-- <img src="" alt="" /> -->
 <h2 align="center"><i>Tools | Use</i></h2>
 <p align="center">
   <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio," />
+    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio,cyclish.sh" />
   </a>
 </p>
 
