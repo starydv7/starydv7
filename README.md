@@ -18,7 +18,7 @@ I am also an open-source enthusiast and maintainer.</p>
 - 🤔 All of my projects and details are available at <a href='https://pawan-portfolio-sigma.vercel.app/'>Portfolio</a>
 - 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.Nodejs,MongoDB, ExpressJS,GSAP,NextJs</b>
 - 📫 How to reach me  <a href='pawanstar72926ydv@gmail.com'>Email</a>
-- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1WGpKaUDJQJ84pMXXa48XuzJc1Db7GLQY/view?usp=sharing'>Resume </a>
+- 📄 Know about my experiences <a href='https://drive.google.com/drive/folders/1yv58BWSIzSyRyBljX1ZDrM0QluieSdE8?usp=sharing'>Resume </a>
  
 
 
