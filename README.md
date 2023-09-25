@@ -3,7 +3,7 @@
 <!-- <h3 align="center">A passionate Full Stack Web developer</h3> -->
 
 <h3>A Passionate Full-Stack web developer from india</h3>
-<p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care ofarchitecture and code quality.<br>
+<p>My passion for software lies with dreaming up ideas and making them come true with elegant interfaces. I take great care of architecture and code quality.<br>
 I am also an open-source enthusiast and maintainer.</p>
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=starydv7&label=Profile%20views&color=0e75b6&style=flat" alt="starydv7" /> </p>
