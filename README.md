@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
 <!-- <h3 align="center">A passionate Full Stack Web developer</h3> -->
 
-<h3>A Full Stack Developer who enjoys solving problems and building quality projects. With a diverse set of skills and technologies, Can develop robust and efficient products. Keep up with the latest advancements in the field, and work well with teams to deliver the best possible results</h3>
+<p>A Full Stack Developer who enjoys solving problems and building quality projects. With a diverse set of skills and technologies, Can develop robust and efficient products. Keep up with the latest advancements in the field, and work well with teams to deliver the best possible results</p>
 
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=starydv7&label=Profile%20views&color=0e75b6&style=flat" alt="starydv7" /> </p>
