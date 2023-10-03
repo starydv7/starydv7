@@ -12,7 +12,7 @@
 
 ## About me
 - 😄<b>Bachelor of Information Technology (B.Tech)</b> from Haldia Insitute of Technology (Haldia)West Bengal
-- 🌱 I’m currently learning Data Structures, Algorithms and Mern stack.
+- 🌱 I’have worked on Data Structures, Algorithms and Mern stack.
 - 👯 I’m looking to collaborate on OpenSource Projects
 - 🤔 All of my projects and details are available at <a href='https://grand-faloodeh-146824.netlify.app/'>Portfolio</a>
 - 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.Nodejs,MongoDB, ExpressJS,GSAP,NextJs</b>
