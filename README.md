@@ -65,7 +65,7 @@
   <br/>
  <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=starydv7&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48% title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="starydv7's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=starydv7&theme=tokyonight&hide_border=true"/>
+  <img width="48% title="🔥 Get streak stats for your profile at git.iostreak-stats" alt="starydv7's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=starydv7&theme=tokyonight&hide_border=true"/>
 </p>
 
 ### 🔝 Most Used Languages
