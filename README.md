@@ -14,10 +14,10 @@
 - 😄<b>Bachelor of Information Technology (B.Tech)</b> from Haldia Insitute of Technology (Haldia)West Bengal
 - 🌱 I’have worked on Data Structures, Algorithms and Mern stack.
 - 👯 I’m looking to collaborate on OpenSource Projects
-- 🤔 All of my projects and details are available at <a href='https://grand-faloodeh-146824.netlify.app/'>Portfolio</a>
+- 🤔 All of my projects and details are available at <a href='polite-marshmallow-4ecdcd.netlify.app/'>Portfolio</a>
 - 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.Nodejs,MongoDB, ExpressJS,GSAP,NextJs</b>
 - 📫 How to reach me  <a href='pawanstar72926ydv@gmail.com'>Email</a>
-- 📄 Know about my experiences <a href='https://drive.google.com/drive/folders/1yv58BWSIzSyRyBljX1ZDrM0QluieSdE8?usp=sharing'>Resume </a>
+- 📄 Know about my experiences <a href='[https://drive.google.com/drive/folders/1yv58BWSIzSyRyBljX1ZDrM0QluieSdE8?usp=sharing](https://drive.google.com/drive/folders/1AH8BQF2KNSV7csxlUb5iNon40H-jHOWG?usp=drive_link)'>Resume </a>
  
 
 
