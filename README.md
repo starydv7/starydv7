@@ -1,80 +1,90 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+
 <h1 align="center">Hi 👋, I'm Pawan Yadav</h1>
-<!-- <h3 align="center">A passionate Full Stack Web developer</h3> -->
 
-<p>A Full Stack Developer who enjoys solving problems and building quality projects. With a diverse set of skills and technologies, Can develop robust and efficient products. Keep up with the latest advancements in the field, and work well with teams to deliver the best possible results</p>
+<p align="center">A Full Stack Developer who enjoys solving problems and building quality projects. With a diverse set of skills and technologies, I develop robust and efficient products, keep up with the latest advancements in the field, and collaborate well with teams to deliver the best possible results.</p>
 
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=starydv7&label=Profile%20views&color=0e75b6&style=flat" alt="starydv7" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=starydv7&column=8&theme=onedark&no-frame=true&no-bg=true" alt="starydv7" /></a> </p>
-
-
-
-## About me
-- 😄<b>Bachelor of Information Technology (B.Tech)</b> from Haldia Insitute of Technology (Haldia)West Bengal
-- 🌱 I’have worked on Data Structures, Algorithms and Mern stack.
-- 👯 I’m looking to collaborate on OpenSource Projects
-- 🤔 All of my projects and details are available at <a href='polite-marshmallow-4ecdcd.netlify.app/'>Portfolio</a>
-- 💬 Ask me about <b> HTML, JavaScript, TypeScript, React, Redux, CSS.Nodejs,MongoDB, ExpressJS,GSAP,NextJs</b>
-- 📫 How to reach me  <a href='pawanstar72926ydv@gmail.com'>Email</a>
-- 📄 Know about my experiences <a href='https://drive.google.com/file/d/1jo5PK6bszkwrqgE3P0wvEUWCuzwTtVct/view?usp=sharing'>Resume </a>
- 
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pawan" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pawanstarydv7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pawan" height="30" width="40" /></a>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=starydv7&label=Profile%20views&color=0e75b6&style=flat" alt="starydv7" />
 </p>
-## Languages & Tech & Tools
-<br/>
-<h2 align="center"><i>Tech Stack <img src="https://camo.githubusercontent.com/beb64ff21c883e318e4f5db5231c2ba4175705bea1c9249e82a41ab375db4f75/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f51737347456d706b79454f684243623765312f67697068792e6769663f6369643d656366303565343761306e336769316266716e74716d6f62386739616964316f796a327772336473336d67373030626c267269643d67697068792e676966" width="35"/></i></h2>
-<p align="center">
-  <a >
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,java,redux,bootstrap,express,jquery,materialui,mongodb,nodejs,NextJs" />
-  </a>
-</p>
-<!-- <img src="" alt="" /> -->
-<h2 align="center"><i>Tools | Use</i></h2>
-<p align="center">
-  <a >
-    <img src="https://skillicons.dev/icons?i=bash,codepen,firebase,git,github,heroku,netlify,powershell,vscode,visualstudio,cyclish.sh" />
+
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=starydv7&column=8&theme=onedark&no-frame=true&no-bg=true" alt="starydv7 trophies" />
   </a>
 </p>
 
-<h2 align="center"><i>Let's Connect !!<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="100" /></i></h2>
+---
 
+## 📖 About Me
 
- 
- 
+- 🎓 **Bachelor of Information Technology (B.Tech)** from Haldia Institute of Technology, West Bengal  
+- 🌱 Working on **Data Structures, Algorithms, and MERN/PERN Stack Development**
+- 📊 Integrated **Power BI Embedded** dashboards in **Next.js** applications  
+- 👯 Actively looking to collaborate on **Open Source Projects**  
+- 📬 Reach me at: [pawanstar72926ydv@gmail.com](mailto:pawanstar72926ydv@gmail.com)  
+- 📄 Check out my [Resume](https://drive.google.com/file/d/1jo5PK6bszkwrqgE3P0wvEUWCuzwTtVct/view?usp=sharing)  
+- 🌐 Visit my [Portfolio](https://polite-marshmallow-4ecdcd.netlify.app/)
+
+---
+
+## 🛠️ Languages & Technologies
+
+<h2 align="center"><i>Tech Stack 💻</i></h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,nodejs,express,mongodb,postgresql,materialui,bootstrap,gsap" />
 </p>
-<br/>
-<br/>
-## Connect with me:
+
+<h2 align="center"><i>Tools 🛠️</i></h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=bash,git,github,vscode,vercel,azure,netlify,firebase,heroku,powershell" />
+</p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pawanstarydv7/" target="_blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" /></a>
-  <a title="pawanstar72926ydv@gmail.com" href="mailto:pawanstar72926ydv@gmail.com" target="_blank"><img align="center"  src="https://cdn-icons-png.flaticon.com/128/888/888853.png"  width="50px"   alt="mail-me" /></a>
-  <a href="https://wa.me/917014361028" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px"  alt="whatsapp-me" /></a>
-<a href="https://leetcode.com/Starydv7/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="50" width="50" /></a>
-</p>
-
-
-## 📊 My Github Stats
-
-  <br/>
- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=starydv7&show_icons=true&hide_border=true&theme=tokyonight" />
-  <img width="48% title="🔥 Get streak stats for your profile at git.io-streak-stats" alt="starydv7's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=starydv7&theme=tokyonight&hide_border=true"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=starydv7&theme=tokyonight&hide_border=true" />
 </p>
 
 ### 🔝 Most Used Languages
- <div align="center">
-  <img alt="languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starydv7&layout=compact&hide_border=true&theme=tokyonight" />
-</div> 
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starydv7&layout=compact&hide_border=true&theme=tokyonight" />
+</div>
+
+> **Note:** Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ---
+
 ### 📈 GitHub Activity
-  <a href="https://github.com/starydv7/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=starydv7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+<img alt="starydv7's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=starydv7&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/pawanstarydv7/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a title="Email" href="mailto:pawanstar72926ydv@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/888/888853.png" width="50px" alt="email" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/917014361028" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/128/733/733585.png" width="50px" alt="whatsapp" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/Starydv7/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="50" width="50" alt="leetcode" />
+  </a>
 </p>
+
+---
+
+<h2 align="center"><i>Let’s Build Something Great Together! 🤝</i></h2>
