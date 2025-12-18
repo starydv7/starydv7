@@ -24,7 +24,7 @@
 - 👯 Actively looking to collaborate on **Open Source Projects**  
 - 📬 Reach me at: [pawanstar72926ydv@gmail.com](mailto:pawanstar72926ydv@gmail.com)  
 - 📄 Check out my [Resume](https://drive.google.com/file/d/1jo5PK6bszkwrqgE3P0wvEUWCuzwTtVct/view?usp=sharing)  
-- 🌐 Visit my [Portfolio](https://polite-marshmallow-4ecdcd.netlify.app/)
+- 🌐 Visit my [Portfolio](https://pawanyadav-88xx-zrkii9ds9-starydv7s-projects.vercel.app/)
 
 ---
 
