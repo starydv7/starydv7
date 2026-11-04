@@ -1,236 +1,230 @@
- <div align="center">
+[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 
-<img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" width="100%" />
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=280&section=header&text=PAWAN%20YADAV&fontSize=64&fontColor=3BFFA6&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20System%20Design%20%E2%80%A2%20Open%20Source&descSize=18&descColor=ffffff&descAlignY=58&animation=twinkling" width="100%" alt="header" />
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3BFFA6&center=true&vCenter=true&random=false&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Pawan+Yadav;Full+Stack+Developer+%F0%9F%9A%80;Problem+Solver+%F0%9F%A7%A0;React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+PostgreSQL;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=30&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=PAWAN+YADAV;SOFTWARE+ENGINEER;FULL+STACK+DEVELOPER;BUILDING+WHAT'S+NEXT." />
+<img src="https://komarev.com/ghpvc/?username=starydv7&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/starydv7?label=Followers&style=for-the-badge&color=blueviolet" alt="followers" />
+<img src="https://img.shields.io/github/stars/starydv7?label=Total%20Stars&style=for-the-badge&color=yellow" alt="stars" />
 
-<br/>
+<br/><br/>
 
-<p>
-  <samp>ENGINEERING · ARCHITECTURE · TECHNOLOGY · INNOVATION</samp>
+<a href="https://pawanyadav-88xx-zrkii9ds9-starydv7s-projects.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/pawanstarydv7/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:pawanstar72926ydv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/Starydv7/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://drive.google.com/file/d/1jo5PK6bszkwrqgE3P0wvEUWCuzwTtVct/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-Download-blue?style=for-the-badge&logo=googledrive&logoColor=white" /></a>
+
+<p><em>A passionate Full Stack Developer who thrives on solving complex problems and building scalable, high-quality applications. I stay on the cutting edge of technology, contribute to open source, and collaborate effectively to deliver exceptional results.</em></p>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=starydv7&column=8&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4" alt="trophies" />
 </p>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<a href="https://pawanyadav-88xx-zrkii9ds9-starydv7s-projects.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-FFFFFF?style=flat-square&logo=vercel&logoColor=000000" /></a>
-<a href="https://www.linkedin.com/in/pawanstarydv7/"><img src="https://img.shields.io/badge/LINKEDIN-FFFFFF?style=flat-square&logo=linkedin&logoColor=000000" /></a>
-<a href="https://leetcode.com/Starydv7/"><img src="https://img.shields.io/badge/LEETCODE-FFFFFF?style=flat-square&logo=leetcode&logoColor=000000" /></a>
-<a href="mailto:pawanstar72926ydv@gmail.com"><img src="https://img.shields.io/badge/CONTACT-FFFFFF?style=flat-square&logo=gmail&logoColor=000000" /></a>
+## 📖 About Me
 
-<br/><br/>
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-<img src="https://komarev.com/ghpvc/?username=starydv7&style=flat-square&color=9EFF00&label=VISITORS" />
+- 🎓 **Education:** Bachelor of Information Technology (B.Tech)
+- 🏫 **Institute:** Haldia Institute of Technology, West Bengal
+- 🌱 **Currently Learning:** Data Structures, Algorithms, and MERN/PERN Stack Development
+- 💼 **Recent Achievement:** Integrated Power BI Embedded dashboards in Next.js applications
+- 👯 **Open to:** Collaborate on Open Source Projects
+- 💬 **Ask me about:** React, Next.js, Node.js, System Design, Database Optimization
+- 📧 **Email:** [pawanstar72926ydv@gmail.com](mailto:pawanstar72926ydv@gmail.com)
+- 📄 **Resume:** [View My Resume](https://drive.google.com/file/d/1jo5PK6bszkwrqgE3P0wvEUWCuzwTtVct/view?usp=sharing)
+- 🌐 **Portfolio:** [Visit My Portfolio](https://pawanyadav-88xx-zrkii9ds9-starydv7s-projects.vercel.app/)
+- ⚡ **Fun fact:** I debug with console.log() and I'm not ashamed! 🐛
 
-</div>
+<br clear="right"/>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<table>
-<tr>
-<td width="60%" valign="top">
+## ⚙️ How I Build
 
-### THE DEVELOPER
-
-I build software at the intersection of engineering, data and product thinking.
-
-From scalable backend systems to interactive frontend experiences, my work focuses on turning complex requirements into reliable, maintainable and production-ready applications.
-
-Currently working across healthcare technology, analytics platforms, full-stack systems and cloud infrastructure.
-
-</td>
-<td width="40%" valign="top">
-
-```yaml
-developer:
-  name: Pawan Yadav
-  role: Software Engineer
-  focus:
-    - Full Stack Engineering
-    - Backend Architecture
-    - Cloud & Analytics
-    - Product Development
-  dsa: 700+
-  github: starydv7
+```mermaid
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1117','primaryBorderColor':'#3BFFA6','primaryTextColor':'#ffffff','lineColor':'#fe428e','fontFamily':'monospace'}}}%%
+flowchart LR
+  A["💡 Idea"] --> B["🧩 Design"] --> C["⚙️ Build"] --> D["🧪 Test"] --> E["🚀 Ship"] --> F["📈 Measure"] --> A
 ```
 
-</td>
-</tr>
-</table>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-<br/>
+## 📊 Comprehensive GitHub Statistics
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=starydv7&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=starydv7&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starydv7&layout=compact&theme=radical&hide_border=true&langs_count=10" alt="Top Languages" />
+  <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=starydv7&theme=radical&hide_border=true&combine_all_yearly_contributions=true" alt="Contribution Stats" />
+</div>
+
+## 📈 Contribution Activity Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=starydv7&bg_color=0d1117&color=3BFFA6&line=3BFFA6&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Graph" alt="Activity Graph" />
+
+## 🔥 GitHub Metrics & Advanced Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starydv7&theme=radical" alt="Profile Details" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=starydv7&theme=radical" alt="Repos per Language" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=starydv7&theme=radical" alt="Most Commit Language" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=starydv7&theme=radical" alt="Stats" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starydv7&theme=radical&utcOffset=5.5" alt="Productive Time" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🛠️ Technology Arsenal
+
+<h3 align="center">Frontend Technologies</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,redux,nextjs,tailwind,materialui,bootstrap,sass" alt="Frontend" /></p>
+
+<h3 align="center">Backend & Databases</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,mysql,firebase,graphql" alt="Backend" /></p>
+
+<h3 align="center">DevOps & Cloud</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=git,github,azure,vercel,netlify,heroku,docker" alt="DevOps" /></p>
+
+<h3 align="center">Tools & Others</h3>
+<p align="center"><img src="https://skillicons.dev/icons?i=vscode,bash,powershell,postman,figma" alt="Tools" /></p>
+
+## 🎨 Skills Proficiency
+
+```text
+JavaScript/TypeScript   ████████████████████░   90%
+React & Next.js         ███████████████████░░   88%
+Node.js & Express       ██████████████████░░░   85%
+MongoDB & PostgreSQL    ████████████████░░░░░   80%
+System Design           ███████████████░░░░░░   75%
+Cloud Services          ██████████████░░░░░░░   70%
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🎯 Competitive Programming & Problem Solving
 
 <div align="center">
 
-## WHAT I BUILD
+[![LeetCode Stats](https://leetcard.jacoblin.cool/Starydv7?theme=dark&font=Noto%20Sans&ext=heatmap)](https://leetcode.com/Starydv7/)
 
 </div>
 
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FStarydv7&logo=leetcode&logoColor=yellow" alt="LeetCode Problems Solved" />
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🚀 Featured Projects
+
+<div align="center">
 <table>
 <tr>
-<td width="50%" valign="top">
-
-**01 — APPLICATION ENGINEERING**
-
-Building modern web applications, frontend systems, REST APIs and backend services.
-
+<td width="50%">
+<h3 align="center">Project 1 - MERN Stack App</h3>
+<div align="center">
+<a href="https://github.com/starydv7" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=starydv7&theme=radical&hide_border=true&show_owner=true" alt="Project 1" /></a>
+<br><br>
+<a href="https://github.com/starydv7" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Code-blue?style=for-the-badge&logo=github"/></a>
+<a href="https://yourproject.com" target="_blank"><img src="https://img.shields.io/badge/Live-View%20Demo-green?style=for-the-badge&logo=vercel"/></a>
+<p><strong>Tech Stack:</strong> React, Node.js, MongoDB, Express</p>
+</div>
 </td>
-<td width="50%" valign="top">
-
-**02 — DATA & ANALYTICS**
-
-Interactive BI dashboards, embedded analytics, reporting systems and data-driven products.
-
+<td width="50%">
+<h3 align="center">Project 2 - Next.js Dashboard</h3>
+<div align="center">
+<a href="https://github.com/starydv7" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=starydv7&theme=radical&hide_border=true&show_owner=true" alt="Project 2" /></a>
+<br><br>
+<a href="https://github.com/starydv7" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Code-blue?style=for-the-badge&logo=github"/></a>
+<a href="https://yourproject2.com" target="_blank"><img src="https://img.shields.io/badge/Live-View%20Demo-green?style=for-the-badge&logo=vercel"/></a>
+<p><strong>Tech Stack:</strong> Next.js, TypeScript, PostgreSQL, Power BI</p>
+</div>
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
-
-**03 — SYSTEMS & INFRASTRUCTURE**
-
-Database design, cloud deployments, API integrations and scalable application architecture.
-
+<td width="50%">
+<h3 align="center">Project 3 - E-Commerce Platform</h3>
+<div align="center">
+<a href="https://github.com/starydv7" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=starydv7&theme=radical&hide_border=true&show_owner=true" alt="Project 3" /></a>
+<br><br>
+<a href="https://github.com/starydv7" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Code-blue?style=for-the-badge&logo=github"/></a>
+<a href="https://yourproject3.com" target="_blank"><img src="https://img.shields.io/badge/Live-View%20Demo-green?style=for-the-badge&logo=vercel"/></a>
+<p><strong>Tech Stack:</strong> React, Redux, Firebase, Stripe</p>
+</div>
 </td>
-<td width="50%" valign="top">
-
-**04 — INTELLIGENT PRODUCTS**
-
-Healthcare technology, OCR workflows, automation and intelligent application experiences.
-
+<td width="50%">
+<h3 align="center">Project 4 - Task Management</h3>
+<div align="center">
+<a href="https://github.com/starydv7" target="_blank"><img src="https://github-readme-stats.vercel.app/api/pin/?username=starydv7&repo=starydv7&theme=radical&hide_border=true&show_owner=true" alt="Project 4" /></a>
+<br><br>
+<a href="https://github.com/starydv7" target="_blank"><img src="https://img.shields.io/badge/Code-View%20Code-blue?style=for-the-badge&logo=github"/></a>
+<a href="https://yourproject4.com" target="_blank"><img src="https://img.shields.io/badge/Live-View%20Demo-green?style=for-the-badge&logo=vercel"/></a>
+<p><strong>Tech Stack:</strong> Next.js, Prisma, PostgreSQL, TailwindCSS</p>
+</div>
 </td>
 </tr>
 </table>
+</div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+## 🐍 Contribution Snake Animation
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+## 💡 Random Dev Quote
 
 <div align="center">
 
-## SELECTED ENGINEERING
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 </div>
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-**AMRSENSE**
+## 📫 Let's Connect
 
-`HEALTHCARE TECHNOLOGY`
-
-Healthcare applications, ABHA integration workflows, OCR-powered data capture, ASHA engagement and public health analytics.
-
-</td>
-<td width="50%" valign="top">
-
-**SR ANALYTICS**
-
-`SAAS & BUSINESS INTELLIGENCE`
-
-Power BI Embedded, Next.js applications, Azure infrastructure and interactive analytics platforms.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**CODEGRES**
-
-`AGRICULTURAL TECHNOLOGY`
-
-Full-stack agricultural applications and crop infection monitoring workflows.
-
-</td>
-<td width="50%" valign="top">
-
-**PRODUCT ENGINEERING**
-
-`WEB & MOBILE`
-
-Frontend development, backend integrations, application architecture and interactive product experiences.
-
-</td>
-</tr>
-</table>
-
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/pawanstarydv7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pawanstar72926ydv@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://wa.me/917014361028" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
+  <a href="https://leetcode.com/Starydv7/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+  <a href="https://pawanyadav-88xx-zrkii9ds9-starydv7s-projects.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+</p>
 
 <div align="center">
 
-## THE TECHNOLOGY
+<h2>⭐ From <a href="https://github.com/starydv7">Pawan Yadav</a> - Let's Build Something Amazing Together! 🚀</h2>
 
-<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,redux,tailwind,nodejs,express,nestjs,java,cs,mongodb,postgres,mysql,supabase,azure,aws,docker,git,github&theme=dark&perline=10" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3BFFA6&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%98%8A;Happy+Coding!+%F0%9F%92%BB;Open+to+Collaborations!+%F0%9F%A4%9D" alt="Footer" />
 
-</div>
-
-<br/>
-
-<div align="center">
-
-## ENGINEERING METRICS
-
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=starydv7&theme=github_dark" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=starydv7&show_icons=true&hide_border=true&theme=github_dark&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=starydv7&theme=github-dark-blue&hide_border=true" />
-
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=starydv7&layout=compact&theme=github_dark&hide_border=true&langs_count=8" />
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=starydv7&theme=github_dark&utcOffset=5.5" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## PROBLEM SOLVING
-
-<a href="https://leetcode.com/Starydv7/">
-<img width="85%" src="https://leetcard.jacoblin.cool/Starydv7?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
-</a>
-
-<br/>
-
-<samp>700+ PROBLEMS SOLVED · DATA STRUCTURES · ALGORITHMS</samp>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-## CONTRIBUTION GRAPH
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=starydv7&bg_color=0D1117&color=FFFFFF&line=9EFF00&point=FFFFFF&area=true&hide_border=true" />
-
-<br/><br/>
-
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" width="85%" />
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:18251C&height=120&section=footer" width="100%" />
-
-<samp>
-
-PAWAN YADAV
-
-SOFTWARE ENGINEER · INDIA
-
-BUILD THINGS THAT MATTER.
-
-</samp>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer&animation=twinkling" width="100%" alt="footer" />
 
 </div>
