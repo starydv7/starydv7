@@ -26,10 +26,14 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=starydv7&column=8&theme=radical&no-frame=true&no-bg=false&margin-w=4&margin-h=4" alt="trophies" />
+  <img src="https://img.shields.io/badge/B.Tech-Information%20Technology-3BFFA6?style=for-the-badge&labelColor=0d1117&logo=graduationcap&logoColor=3BFFA6" />
+  <img src="https://img.shields.io/badge/Power%20BI%20Embedded-in%20Next.js-fe428e?style=for-the-badge&labelColor=0d1117&logo=powerbi&logoColor=fe428e" />
+  <img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&labelColor=0d1117&logo=leetcode&logoColor=FFA116" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-3BFFA6?style=for-the-badge&labelColor=0d1117&logo=opensourceinitiative&logoColor=3BFFA6" />
+  <img src="https://img.shields.io/badge/Full%20Stack-MERN%20%7C%20PERN-fe428e?style=for-the-badge&labelColor=0d1117&logo=react&logoColor=fe428e" />
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
@@ -56,9 +60,9 @@
 ## ⚙️ How I Build
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1117','primaryBorderColor':'#3BFFA6','primaryTextColor':'#ffffff','lineColor':'#fe428e','fontFamily':'monospace'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0d1117','primaryBorderColor':'#3BFFA6','primaryTextColor':'#ffffff','lineColor':'#fe428e'}}}%%
 flowchart LR
-  A["💡 Idea"] --> B["🧩 Design"] --> C["⚙️ Build"] --> D["🧪 Test"] --> E["🚀 Ship"] --> F["📈 Measure"] --> A
+  A[Idea] --> B[Design] --> C[Build] --> D[Ship] --> E[Iterate]
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
